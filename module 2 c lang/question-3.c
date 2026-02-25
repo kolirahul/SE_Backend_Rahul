@@ -1,3 +1,5 @@
+/* Write a C program that includes variables, constants, and comments.
+ Declareand use different data types (int, char, float) and display their values.*/
 #include<stdio.h>
 main(){
 	int age;
